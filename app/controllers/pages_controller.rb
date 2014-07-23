@@ -1,7 +1,9 @@
 class PagesController < ApplicationController
   def home
   end
+  def connect
+  end
 
-  def about
+  def about 
   end
 end
